@@ -73,9 +73,7 @@ const styles = StyleSheet.create({
 
   button: {
     width: 150, 
-    height: 60, 
-    
-    
+    height: 60,   
     color:'black',   
   },
 
